@@ -3,7 +3,7 @@
 A Power BI dashboard that shows why medical claims get denied, by payer, reason code, and appeal outcome, built to help billing teams find recoverable revenue.
 
 > **Data note:** This project uses a synthetic dataset created for portfolio demonstration. It contains no real patient data and does not represent a client engagement or real financial recoveries.
-(dashboard_screenshot.png)
+> ![Dashboard](dashboard_screenshot.png)
 
 ## Business question
 
